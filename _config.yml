@@ -95,9 +95,9 @@ chrome-tab-theme-color: "#000000"
 service-worker: true
 
 
-
+'''
 # Friends
-#friends: [
+friends: [
     {
         title: "WY",
         href: "http://zhengwuyang.com"
@@ -112,3 +112,4 @@ service-worker: true
         href: "https://developer.apple.com/"
     }
 ]
+'''
